@@ -1,0 +1,26 @@
+{
+  "name": "lovense-link-hub-simple",
+  "version": "1.0.0",
+  "description": "Professional Lovense Link Hub - Simplified 5-file version",
+  "main": "simple-server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node simple-server.js",
+    "dev": "node simple-server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "keywords": [
+    "lovense",
+    "link-hub",
+    "control-center",
+    "react",
+    "express"
+  ],
+  "author": "Lovense Link Hub",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
